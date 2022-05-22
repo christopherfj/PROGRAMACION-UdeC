@@ -1,3 +1,3 @@
 # Programación básica
-En esta carpeta: \\
+En esta carpeta: \n
 pauta y código
