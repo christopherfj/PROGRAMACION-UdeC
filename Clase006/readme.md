@@ -7,6 +7,6 @@ Para el problema 2:<br/><br/>
 
 [Fuente](https://wikimedia.org/api/rest_v1/media/math/render/svg/158a0ae14d1c9e0d1dc21c268f7e2169b9066dc7)
 
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1}^{n}f(x_i*).\Delta x">
 
-
-
+[Fuente](https://sites.google.com/site/disenoyconstrucciondepuentes1/_/rsrc/1477869844012/integracion-de-funciones/8-suma-de-riemann/rieman.png)
