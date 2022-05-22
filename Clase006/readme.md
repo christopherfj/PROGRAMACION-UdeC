@@ -11,7 +11,7 @@ La representación de sin(x) y cos(x) en series de Taylor:
 
 La integral de f(x) entre a y b en suma de Riemann:
 
-<img src="https://render.githubusercontent.com/render/math?math= \sum_{i=1}^{n}f(x_i*) \cdot \Delta x">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1}^{n}f(x_i*) \cdot \Delta x">
 
 Donde,
 
