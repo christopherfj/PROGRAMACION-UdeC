@@ -9,4 +9,10 @@ Para el problema 2:<br/><br/>
 
 <img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1}^{n}f(x_i*) \cdot \Delta x">
 
+Donde,
+
+<img src="https://render.githubusercontent.com/render/math?math=\Delta x = \frac{b-a}{n}">
+
+<img src="https://render.githubusercontent.com/render/math?math=x_i* = a+i \Delta x">
+
 [Fuente](https://sites.google.com/site/disenoyconstrucciondepuentes1/_/rsrc/1477869844012/integracion-de-funciones/8-suma-de-riemann/rieman.png)
