@@ -1,4 +1,5 @@
 # Programación con funciones
 
 Para el problema 2: <br/>
-$sin(x) = \[\sum_{i=1}^{3}x_{i}=x_{1}+x_{2}+x_{3} \]$
+![img](https://wikimedia.org/api/rest_v1/media/math/render/svg/5318a6eeb39165e39337964bc7dca0ba8e311fb0)
+
