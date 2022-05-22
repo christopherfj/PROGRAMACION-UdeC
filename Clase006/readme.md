@@ -2,12 +2,16 @@
 
 Para el problema 2:<br/><br/>
 
+La representación de sin(x) y cos(x) en series de Taylor:
+
 <img src="https://render.githubusercontent.com/render/math?math=sin(x) = \sum_{i=0}^{\infty}\frac{(-1)^n}{(2n %2b 1)!}x^{2n %2b 1}">
 <img src="https://render.githubusercontent.com/render/math?math=cos(x) = \sum_{i=0}^{\infty}\frac{(-1)^n}{(2n)!}x^{2n}">
 
 [Fuente](https://wikimedia.org/api/rest_v1/media/math/render/svg/158a0ae14d1c9e0d1dc21c268f7e2169b9066dc7)
 
-<img src="https://render.githubusercontent.com/render/math?math= \int_{a}^{b} f(x) \,dx = \sum_{i=1}^{n}f(x_i*) \cdot \Delta x">
+La integral de f(x) entre a y b en suma de Riemann:
+
+<img src="https://render.githubusercontent.com/render/math?math= \sum_{i=1}^{n}f(x_i*) \cdot \Delta x">
 
 Donde,
 
