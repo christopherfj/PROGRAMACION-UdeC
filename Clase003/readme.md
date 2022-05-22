@@ -1,3 +1,3 @@
 # Programación básica
-En esta carpeta: \n
+En esta carpeta: <br/>
 pauta y código
