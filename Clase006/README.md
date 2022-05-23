@@ -1,6 +1,8 @@
 # Programación con funciones
 Códigos ejecutados en Jupyter Notebook
 
+## Observaciones
+
 Para el problema 2:<br/><br/>
 
 La representación de sin(x) y cos(x) en series de Taylor:
