@@ -2,7 +2,6 @@
 Cátedras del curso dictado en el semestre 2022-1 en la UdeC <br/><br/>
 
 ## Los contenidos del curso son:
-
 <b>CAP1.</b> Introducción a la estructura de un sistema computacional y su organización general <br/>
 <b>CAP2.</b> Estrategias para la resolución de problemas <br/>
 <b>CAP3.</b> Programación básica <br/>
