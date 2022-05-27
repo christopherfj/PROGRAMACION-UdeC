@@ -1,2 +1,2 @@
-# Pauta de certámen 1
+# Pauta de certamen 1
 Códigos ejecutados en Google Colaboratory
