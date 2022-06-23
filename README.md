@@ -13,8 +13,9 @@ Cátedras del curso dictado en el semestre 2022-1 en la UdeC <br/><br/>
 ## Los contenidos de las carpetas son:
 <b>Clase003:</b> Programación básica  <br/>
 <b>Clase004:</b> Programación básica  <br/>
-<b>Clase005:</b> Programación nivel certamen  <br/>
+<b>Clase005:</b> Programación nivel certamen 1  <br/>
 <b>Clase006:</b> Programación con funciones  <br/>
 <b>Clase007:</b> Programación con funciones <br/>
 <b>Clase008:</b> Programación usando cadenas <br/>
 <b>Clase009:</b> Programación usando listas <br/>
+<b>Clase009:</b> Programación nivel certamen 2 <br/>
