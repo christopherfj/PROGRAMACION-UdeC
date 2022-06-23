@@ -18,4 +18,4 @@ Cátedras del curso dictado en el semestre 2022-1 en la UdeC <br/><br/>
 <b>Clase007:</b> Programación con funciones <br/>
 <b>Clase008:</b> Programación usando cadenas <br/>
 <b>Clase009:</b> Programación usando listas <br/>
-<b>Clase009:</b> Programación nivel certamen 2 <br/>
+<b>Clase010:</b> Programación nivel certamen 2 <br/>
